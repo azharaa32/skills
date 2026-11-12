@@ -40,8 +40,7 @@
         "./skills/web-artifacts-builder",
         "./skills/webapp-testing"
       ]
-    }
-    ,
+    },
     {
       "name": "claude-api",
       "description": "Claude API and SDK documentation skill for building LLM-powered applications",
@@ -67,6 +66,39 @@
       "strict": false,
       "skills": [
         "./skills/discernment-nudge"
+      ]
+    },
+    {
+      "name": "grill-me",
+      "description": "Grill-Me by Matt Pocock (github.com/mattpocock/skills): a relentless interview to stress-test a plan or design",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/grill-me",
+        "./skills/grilling"
+      ]
+    },
+    {
+      "name": "superpowers",
+      "description": "Superpowers by Jesse Vincent (github.com/obra/superpowers): TDD, debugging, planning and collaboration workflow skills",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/superpowers/brainstorming",
+        "./skills/superpowers/diagnosing-superpowers",
+        "./skills/superpowers/dispatching-parallel-agents",
+        "./skills/superpowers/executing-plans",
+        "./skills/superpowers/finishing-a-development-branch",
+        "./skills/superpowers/receiving-code-review",
+        "./skills/superpowers/requesting-code-review",
+        "./skills/superpowers/subagent-driven-development",
+        "./skills/superpowers/systematic-debugging",
+        "./skills/superpowers/test-driven-development",
+        "./skills/superpowers/using-git-worktrees",
+        "./skills/superpowers/using-superpowers",
+        "./skills/superpowers/verification-before-completion",
+        "./skills/superpowers/writing-plans",
+        "./skills/superpowers/writing-skills"
       ]
     }
   ]
