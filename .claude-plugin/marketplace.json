@@ -100,6 +100,21 @@
         "./skills/superpowers/writing-plans",
         "./skills/superpowers/writing-skills"
       ]
+    },
+    {
+      "name": "ui-ux-pro-max",
+      "description": "UI/UX Pro Max by nextlevelbuilder (github.com/nextlevelbuilder/ui-ux-pro-max-skill): UI/UX design intelligence with styles, palettes, font pairings, charts and stack guidelines",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/ui-ux-pro-max-suite/banner-design",
+        "./skills/ui-ux-pro-max-suite/brand",
+        "./skills/ui-ux-pro-max-suite/design",
+        "./skills/ui-ux-pro-max-suite/design-system",
+        "./skills/ui-ux-pro-max-suite/slides",
+        "./skills/ui-ux-pro-max-suite/ui-styling",
+        "./skills/ui-ux-pro-max-suite/ui-ux-pro-max"
+      ]
     }
   ]
 }
