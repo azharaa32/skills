@@ -1,0 +1,2 @@
+Source: https://github.com/giorgio-a11y/dashboard-craft
+License: MIT (declared in upstream README)
