@@ -115,6 +115,20 @@
         "./skills/ui-ux-pro-max-suite/ui-styling",
         "./skills/ui-ux-pro-max-suite/ui-ux-pro-max"
       ]
+    },
+    {
+      "name": "antislop",
+      "description": "Anti Slop by miqdadbadjuber (github.com/miqdadbadjuber/anti-slop): rules that stop generic AI slop in generated UI, copy and code",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/antislop-suite/antislop",
+        "./skills/antislop-suite/antislop-code",
+        "./skills/antislop-suite/antislop-copywriting",
+        "./skills/antislop-suite/antislop-human",
+        "./skills/antislop-suite/antislop-layoutmobile",
+        "./skills/antislop-suite/antislop-ui"
+      ]
     }
   ]
 }
