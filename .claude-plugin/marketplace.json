@@ -129,6 +129,50 @@
         "./skills/antislop-suite/antislop-layoutmobile",
         "./skills/antislop-suite/antislop-ui"
       ]
+    },
+    {
+      "name": "obsidian",
+      "description": "Obsidian skills by Steph Ango / Obsidian (github.com/obsidianmd/obsidian-skills): Obsidian CLI, Markdown, Bases, JSON Canvas, Headless sync/publish, Defuddle and Knap",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/obsidian-suite/defuddle",
+        "./skills/obsidian-suite/json-canvas",
+        "./skills/obsidian-suite/knap",
+        "./skills/obsidian-suite/obsidian-bases",
+        "./skills/obsidian-suite/obsidian-cli",
+        "./skills/obsidian-suite/obsidian-headless",
+        "./skills/obsidian-suite/obsidian-markdown"
+      ]
+    },
+    {
+      "name": "dashboard-builder",
+      "description": "Skills for building dashboard web apps: shadcn, React/Next.js best practices, Supabase, open-dashboard scaffolds, BI dashboards, styleseed, accessibility and data-viz. Sources and licenses in skills/dashboard-suite/_licenses",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/dashboard-suite/accessibility-expert",
+        "./skills/dashboard-suite/add-backend",
+        "./skills/dashboard-suite/add-component",
+        "./skills/dashboard-suite/ai-native-product-designer",
+        "./skills/dashboard-suite/bi-builder",
+        "./skills/dashboard-suite/composition-patterns",
+        "./skills/dashboard-suite/d3-visualization",
+        "./skills/dashboard-suite/dashboard-craft",
+        "./skills/dashboard-suite/design-critique",
+        "./skills/dashboard-suite/design-workshop-facilitation",
+        "./skills/dashboard-suite/next-bundle-optimizer",
+        "./skills/dashboard-suite/next-dev-loop",
+        "./skills/dashboard-suite/react-best-practices",
+        "./skills/dashboard-suite/rebrand",
+        "./skills/dashboard-suite/scaffold-dashboard",
+        "./skills/dashboard-suite/shadcn",
+        "./skills/dashboard-suite/shadcnblocks",
+        "./skills/dashboard-suite/styleseed",
+        "./skills/dashboard-suite/supabase",
+        "./skills/dashboard-suite/supabase-postgres-best-practices",
+        "./skills/dashboard-suite/ux-writing"
+      ]
     }
   ]
 }

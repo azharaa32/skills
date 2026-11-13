@@ -1,0 +1,2 @@
+Source: https://github.com/vercel-labs/agent-skills
+License: MIT (declared in each SKILL.md frontmatter; Copyright Vercel, Inc.)
