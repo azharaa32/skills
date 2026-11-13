@@ -129,6 +129,21 @@
         "./skills/antislop-suite/antislop-layoutmobile",
         "./skills/antislop-suite/antislop-ui"
       ]
+    },
+    {
+      "name": "obsidian",
+      "description": "Obsidian skills by Steph Ango / Obsidian (github.com/obsidianmd/obsidian-skills): Obsidian CLI, Markdown, Bases, JSON Canvas, Headless sync/publish, Defuddle and Knap",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/obsidian-suite/defuddle",
+        "./skills/obsidian-suite/json-canvas",
+        "./skills/obsidian-suite/knap",
+        "./skills/obsidian-suite/obsidian-bases",
+        "./skills/obsidian-suite/obsidian-cli",
+        "./skills/obsidian-suite/obsidian-headless",
+        "./skills/obsidian-suite/obsidian-markdown"
+      ]
     }
   ]
 }
